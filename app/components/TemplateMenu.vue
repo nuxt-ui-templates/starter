@@ -4,7 +4,7 @@
     :modal="false"
     :items="[{
       label: 'Starter',
-      to: 'https://ui-pro-starter.nuxt.dev/',
+      to: 'https://starter-template.nuxt.dev/',
       color: 'primary',
       checked: true,
       type: 'checkbox'

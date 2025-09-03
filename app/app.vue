@@ -12,15 +12,15 @@ useHead({
 })
 
 const title = 'Nuxt Starter Template'
-const description = 'Nuxt UI is a free and open-source UI library for Nuxt applications. Create beautiful & responsive applications in minutes.'
+const description = 'Nuxt UI is a comprehensive UI library for Vue and Nuxt applications, offering a collection of fully styled and accessible components.'
 
 useSeoMeta({
   title,
   description,
   ogTitle: title,
   ogDescription: description,
-  ogImage: 'https://assets.hub.nuxt.com/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3VpLXByby1zdGFydGVyLm51eHQuZGV2IiwiaWF0IjoxNzM5NDYzMzk4fQ.XLzPkSW6nRbPW07QO1RkMwz_RAPA4KfeyrWrK3li9YI.jpg?theme=light',
-  twitterImage: 'https://assets.hub.nuxt.com/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3VpLXByby1zdGFydGVyLm51eHQuZGV2IiwiaWF0IjoxNzM5NDYzMzk4fQ.XLzPkSW6nRbPW07QO1RkMwz_RAPA4KfeyrWrK3li9YI.jpg?theme=light',
+  ogImage: 'https://ui4.nuxt.com/assets/templates/nuxt/starter-light.png',
+  twitterImage: 'https://ui4.nuxt.com/assets/templates/nuxt/starter-light.png',
   twitterCard: 'summary_large_image'
 })
 </script>
@@ -40,7 +40,7 @@ useSeoMeta({
         <UColorModeButton />
 
         <UButton
-          to="https://github.com/nuxt-ui-pro/starter"
+          to="https://github.com/nuxt-ui-templates/starter"
           target="_blank"
           icon="i-simple-icons-github"
           aria-label="GitHub"
@@ -65,7 +65,7 @@ useSeoMeta({
 
       <template #right>
         <UButton
-          to="https://github.com/nuxt-ui-pro/starter"
+          to="https://github.com/nuxt-ui-templates/starter"
           target="_blank"
           icon="i-simple-icons-github"
           aria-label="GitHub"
