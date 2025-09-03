@@ -11,8 +11,8 @@ useHead({
   }
 })
 
-const title = 'Nuxt Starter Template'
-const description = 'Nuxt UI is a comprehensive UI library for Vue and Nuxt applications, offering a collection of fully styled and accessible components.'
+const title = 'Nuxt UI Starter Template'
+const description = 'A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours.'
 
 useSeoMeta({
   title,
@@ -59,7 +59,7 @@ useSeoMeta({
     <UFooter>
       <template #left>
         <p class="text-sm text-muted">
-          Copyright © {{ new Date().getFullYear() }}
+          Built with Nuxt UI • © {{ new Date().getFullYear() }}
         </p>
       </template>
 

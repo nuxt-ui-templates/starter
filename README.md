@@ -11,7 +11,7 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ui4.nuxt.com/assets/templates/nuxt/starter-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://ui4.nuxt.com/assets/templates/nuxt/starter-light.png">
-    <img alt="Nuxt Starter Template" src="https://ui4.nuxt.com/assets/templates/nuxt/starter-light.png">
+    <img alt="Nuxt UI Starter Template" src="https://ui4.nuxt.com/assets/templates/nuxt/starter-light.png">
   </picture>
 </a>
 
