@@ -54,7 +54,7 @@
     <UPageSection>
       <UPageCTA
         title="Ready to build your next Nuxt app?"
-        description="Join thousands of developers building with Nuxt & Nuxt UI. Get this template and start shipping today."
+        description="Join thousands of developers building with Nuxt and Nuxt UI. Get this template and start shipping today."
         variant="subtle"
         :links="[{
           label: 'Start building',
