@@ -1,8 +1,8 @@
 <template>
   <div>
     <UPageHero
-      title="Ship Faster with Nuxt UI"
-      description="A production-ready Nuxt starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours."
+      title="Nuxt Starter Template"
+      description="A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours."
       :links="[{
         label: 'Get started',
         to: 'https://ui.nuxt.com/getting-started/installation/nuxt',
