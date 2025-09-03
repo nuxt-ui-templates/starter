@@ -1,8 +1,8 @@
 <template>
   <div>
     <UPageHero
-      title="Nuxt UI - Starter"
-      description="Nuxt UI is a free and open-source UI library for Nuxt applications. Create beautiful & responsive applications in minutes."
+      title="Starter Template"
+      description="Nuxt UI is a comprehensive UI library for Vue and Nuxt applications, offering a collection of fully styled and accessible components."
       :links="[{
         label: 'Get started',
         to: 'https://ui.nuxt.com/getting-started/installation/nuxt',
@@ -48,13 +48,13 @@
           label: 'Get started',
           to: 'https://ui.nuxt.com/getting-started/installation/nuxt',
           target: '_blank',
-          icon: 'i-lucide-arrow-right',
+          trailingIcon: 'i-lucide-arrow-right',
           color: 'neutral'
         }, {
           label: 'GitHub',
           to: 'https://github.com/nuxt-ui-templates/starter',
           target: '_blank',
-          trailingIcon: 'i-simple-icons-github',
+          icon: 'i-simple-icons-github',
           color: 'neutral',
           variant: 'subtle'
         }]"
