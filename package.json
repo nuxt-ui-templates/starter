@@ -12,9 +12,9 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@iconify-json/lucide": "^1.2.64",
-    "@iconify-json/simple-icons": "^1.2.49",
-    "@nuxt/ui": "^4.0.0-alpha.0",
+    "@iconify-json/lucide": "^1.2.66",
+    "@iconify-json/simple-icons": "^1.2.50",
+    "@nuxt/ui": "^4.0.0-alpha.1",
     "nuxt": "^4.0.3"
   },
   "devDependencies": {
@@ -33,5 +33,5 @@
       "vue-demi"
     ]
   },
-  "packageManager": "pnpm@10.15.0"
+  "packageManager": "pnpm@10.15.1"
 }
