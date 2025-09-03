@@ -2,7 +2,7 @@
   <div>
     <UPageHero
       title="Ship Faster with Nuxt UI"
-      description="A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours."
+      description="A production-ready Nuxt starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours."
       :links="[{
         label: 'Get started',
         to: 'https://ui.nuxt.com/getting-started/installation/nuxt',
@@ -22,7 +22,7 @@
 
     <UPageSection
       id="features"
-      title="Everything you need to build modern apps"
+      title="Everything you need to build modern Nuxt apps"
       description="Start with a solid foundation. This template includes all the essentials for building production-ready applications with Nuxt UI's powerful component system."
       :features="[{
         icon: 'i-lucide-rocket',
@@ -53,8 +53,8 @@
 
     <UPageSection>
       <UPageCTA
-        title="Ready to build something amazing?"
-        description="Join thousands of developers building with Nuxt UI. Get this template and start shipping today."
+        title="Ready to build your next Nuxt app?"
+        description="Join thousands of developers building with Nuxt & Nuxt UI. Get this template and start shipping today."
         variant="subtle"
         :links="[{
           label: 'Start building',
