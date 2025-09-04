@@ -5,7 +5,7 @@
 Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
 
 - [Live demo](https://starter-template.nuxt.dev/)
-- [Documentation](https://ui.nuxt.com/getting-started/installation/nuxt)
+- [Documentation](https://ui4.nuxt.com/docs/getting-started/installation/nuxt)
 
 <a href="https://starter-template.nuxt.dev/" target="_blank">
   <picture>
