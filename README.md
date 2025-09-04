@@ -21,6 +21,10 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
 npm create nuxt@latest -- -t github:nuxt-ui-templates/starter
 ```
 
+## Deploy your own
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnuxt-ui-templates%2Fstarter)
+
 ## Setup
 
 Make sure to install the dependencies:
