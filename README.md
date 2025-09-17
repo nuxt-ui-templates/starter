@@ -15,6 +15,8 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
   </picture>
 </a>
 
+> The starter template for Vue is on https://github.com/nuxt-ui-templates/starter-vue.
+
 ## Quick Start
 
 ```bash [Terminal]
