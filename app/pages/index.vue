@@ -18,7 +18,7 @@ function reset() {
   <div class="flex flex-col items-center justify-center min-h-[60vh] gap-12 px-4">
     <div class="flex flex-col items-center gap-2 text-center">
       <h1 class="text-4xl font-bold tracking-tight text-highlighted sm:text-5xl">
-        Simple Counter
+        Simple Counter :)
       </h1>
       <p class="text-lg text-muted max-w-md">
         A minimal counter to get you started. Click the buttons below to change the value.
