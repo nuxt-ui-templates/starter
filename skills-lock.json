@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "skills": {
+    "antfu": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "6935586ef3ab02e18747a4477d396e692bc96e8f28b0d95b374ffc37fce74cda"
+    },
+    "document-writer": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "7a2b9799ece651b94b288a6b7d799da7ed603f24384897a370c1bfc6e75d74bb"
+    },
+    "motion": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "45d0803ea76f82fa40af91858472fb4528a8ce4c2a9a710b785e796cd5b3fe98"
+    },
+    "nuxt": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "9e8237ec92083db9a6f4c77d5e5bf4b1d9873d670671235bc75455ee1ca39c74"
+    },
+    "nuxt-better-auth": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "38670ad6846049050b531ee65cb1dc653098bccc0caf7e9ebcef6ef0f3d6980b"
+    },
+    "nuxt-content": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "2e6bbe566a1d907db8ff1d8a69637319a272cf7bebcdd51dd8c94a55cf70014f"
+    },
+    "nuxt-seo": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "bffc66809f3a21055d2fd39d0bfa32eefdc681d2e93f4613fc3360addb3d3677"
+    },
+    "nuxt-ui": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "c793a5cefc7a23a1e2e9fb637372ab5c4f9d1c26f04a7abba91ffa51c9726485"
+    },
+    "pinia": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "897b6b0982956f41f5cc85128ca638b625e1b3c8bc619e303cd1e7661c95b7de"
+    },
+    "pnpm": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "0e72c2b2563556bc027cd025d0b3e11bf7147f362f4815ac9ad083ccbac55750"
+    },
+    "tresjs": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "3ef19720f18ac2af115325a9950e369be2cf3e22ead5e4c025f86b7d5108d436"
+    },
+    "ts-library": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "4c33b682fad3e3323e4e8c71ee019f380699802030d147469f4564afe04fb867"
+    },
+    "turborepo": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "bb531fab09e44812e3dc41e77f08708fbb67984ed9421d3c6f54f741fe70c2a0"
+    },
+    "vite": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "f6b076920b1a2d8300dd2a2a66962e40c35102231b74af7d336cf47b999ba4a3"
+    },
+    "vitest": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "04ed1b09da8ac778d693ad12fab49b1c48aadfe1758fe13eb4d6de3fdcbb22f4"
+    },
+    "vue": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "cb120821c275a351b6e3c154d82cf62a9277b6260c2c30b3101f688928a3428b"
+    },
+    "vue-best-practices": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "d7d22c8cb343583c3904692c4d1d7b50382945e433e4f6e053f4aabb9846cbc3"
+    },
+    "vue-testing-best-practices": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "18c7d8f42f350f927e37de055e34c97b8cfb9f79c12cf942f7f3d2a0821057b5"
+    },
+    "vueuse": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "a9ff53d4988a5e4b4c88f3b55f0ae3b6e508e4f2e5d86c7a3c762a2bdcea170c"
+    },
+    "vueuse-functions": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "fedfc78f035a88fe3e9d823f44725fe8981486c55b966c17fbd0d7c28339e49a"
+    },
+    "web-design-guidelines": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "65a2e7d85753383ae0f88df15475d58b9e39723e9c4bb6891421d6144a85f79c"
+    }
+  }
+}
