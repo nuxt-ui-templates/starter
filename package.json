@@ -11,17 +11,17 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@iconify-json/lucide": "^1.2.121",
-    "@iconify-json/simple-icons": "^1.2.92",
+    "@iconify-json/lucide": "^1.2.122",
+    "@iconify-json/simple-icons": "^1.2.93",
     "@nuxt/ui": "^4.10.0",
     "nuxt": "^4.5.1",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "@nuxt/eslint": "^1.16.0",
-    "eslint": "^10.8.0",
+    "@nuxt/eslint": "^1.17.0",
+    "eslint": "^10.8.1",
     "typescript": "^6.0.3",
     "vue-tsc": "^3.3.9"
   },
-  "packageManager": "pnpm@11.18.0"
+  "packageManager": "pnpm@11.20.0"
 }
