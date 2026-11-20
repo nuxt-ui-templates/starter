@@ -11,6 +11,16 @@ export default defineNuxtConfig({
 
   css: ['~/assets/css/main.css'],
 
+  ui: {
+    eslint: {
+      rules: {
+        'no-unknown-classes': 'error',
+        'no-conflicting-classes': 'error',
+        'no-palette-colors': 'error'
+      }
+    }
+  },
+
   routeRules: {
     '/': { prerender: true }
   },
